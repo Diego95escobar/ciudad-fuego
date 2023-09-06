@@ -1,0 +1,36 @@
+body{
+  width: 1600px;
+}
+
+.App div{
+  display: flex;
+  justify-content: center;
+  margin: 15px;
+}
+
+.logoNav{
+  width: 150px;
+  height: 150px;
+}
+
+.navBar{
+  background-color: black;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  height: 150px;
+}
+
+
+.lista{
+  list-style: none;
+  display: flex;
+
+}
+
+.lista li{
+  margin-left: 10%;
+}
+
